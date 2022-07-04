@@ -1,5 +1,5 @@
 # intro_to_testing
-
+#mywords
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -20,7 +20,7 @@ Test Driven Development is a powerful tool used to drive your code. At Turing, T
 RSpec is the testing framework that you will use during your time at Turing.
 This repository is used in conjunction with the `intro_to_testing` lesson and slides.
 
-You will need to `clone` this repository to your local. 
+You will need to `clone` this repository to your local.
 
 We will work with the files in this order:
  - `interaction/example.md` to reference the interaction pattern used in lesson.
